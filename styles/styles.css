@@ -1,0 +1,23 @@
+.section2 {
+	height: 100px;
+}
+
+#col1 {
+	background-color: red;
+}
+#col2 {
+	background-color: green;
+}
+#col3 {
+	background-color: blue;
+}
+
+#col1, #col2, #col3 {
+ 	flex-shrink: 1;
+ 	transition: all 1100ms ease;
+}
+
+.col-6 {
+	flex-grow: 1;
+	transition: all 800ms ease;
+}
