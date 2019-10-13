@@ -16,6 +16,11 @@ body, html {
 	transition: all 400ms ease;
 }
 
+iframe {
+	width: 100%;
+	height: 315px;
+}
+
 .content {
 	text-align: center;
 }
