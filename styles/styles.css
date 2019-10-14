@@ -27,6 +27,10 @@ iframe {
 
 
 /* Cascading Elements */
+.title-section img {
+	width: 40%;
+}
+
 .content .row {
 	margin: 30px;
 }
@@ -46,7 +50,7 @@ iframe {
 	margin-bottom: 25px;
 }
 
-.section1, .section2, .section3 {
+.section1, .section2, .section3, .you-are-here {
 	margin-bottom: 25px;
 }
 
@@ -75,8 +79,5 @@ iframe {
 	background-color: blue;
 }
 
-.section3-col {
-	height: 100px;
-}
 
 
