@@ -2,8 +2,6 @@
 body, html {
 	margin: 0;
 	padding: 0;
-
-	background-color: black;
 }
 
 .row {
@@ -64,20 +62,34 @@ iframe {
 
 
 /* Background Colors */
-#col2-1 {
-	background-color: red;
-}
-#col2-2 {
-	background-color: green;
+.title-section {
+	background-color: black;
+	padding: 10px 0px 10px 0px;
 }
 
 .section1 .content {
-	background-color: red;
+	background-color: #800000;
 }
 
-.section3 .content {
-	background-color: blue;
+#col2-1 {
+	background-color: #ff8c00;
+}
+#col2-2 {
+	background-color: #ffd700;
 }
 
+#col3-1, #col3-1b {
+	background-color: #008000;
+}
+#col3-2, #col3-2b{
+	background-color: #000080;
+}
+#col3-3, #col3-3b {
+	background-color: #4b0082;
+}
+
+#end {
+	background-color: #800000
+}
 
 
