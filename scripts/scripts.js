@@ -43,8 +43,8 @@ $(".section4-col").mouseenter(function(){
   $("#col3-3b").addClass("col-1")
 })
 
-/*
-$(".section2").mouseleave(function(){
+
+$(".section2-col").mouseleave(function(){
   $("#col2-1").removeClass("col-2")
   $("#col2-2").removeClass("col-2")
 
@@ -55,7 +55,7 @@ $(".section2").mouseleave(function(){
   $("#col2-2").addClass("col-3")
 })
 
-$(".section3").mouseleave(function(){
+$(".section3-col").mouseleave(function(){
   $("#col3-1").removeClass("col-1")
   $("#col3-2").removeClass("col-1")
   $("#col3-3").removeClass("col-1")
@@ -68,4 +68,3 @@ $(".section3").mouseleave(function(){
   $("#col3-2").addClass("col-3")
   $("#col3-3").addClass("col-3")
 })
-*/

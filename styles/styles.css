@@ -4,6 +4,14 @@ body, html {
 	padding: 0;
 }
 
+a {
+	color: white;
+}
+
+a:hover {
+	color: white;
+}
+
 .row {
 	text-align: center;
 }
@@ -48,12 +56,8 @@ iframe {
 	margin-bottom: 25px;
 }
 
-.section1, .section2, .section3, .you-are-here {
+.section1, .section2, .section3, .section4, .you-are-here, .section-end, .section-bib {
 	margin-bottom: 25px;
-}
-
-.section2-col {
-	
 }
 
 .section2-col .row {
@@ -91,5 +95,4 @@ iframe {
 #end {
 	background-color: #800000
 }
-
 
