@@ -31,10 +31,6 @@ iframe {
 	text-align: center;
 }
 
-.bibliography {
-	background-color: white;
-}
-
 
 /* Cascading Elements */
 .title-section img {
@@ -89,6 +85,11 @@ iframe {
 #col3-1, #col3-1b {
 	background-color: #008000;
 }
+
+#crimsongaming {
+	background-color: black;
+}
+
 #col3-2, #col3-2b{
 	background-color: #000080;
 }
@@ -96,7 +97,26 @@ iframe {
 	background-color: #4b0082;
 }
 
+.you-are-here .content {
+	background-color: black;
+}
+
 #end {
 	background-color: #800000
 }
 
+
+
+.bibliography {
+	background-color: white;
+	text-align: left;
+	width: 50%;
+}
+
+.bibliography h1 {
+	text-align: center;
+}
+
+.back {
+	text-align: left;
+}

@@ -68,3 +68,17 @@ $(".section3-col").mouseleave(function(){
   $("#col3-2").addClass("col-3")
   $("#col3-3").addClass("col-3")
 })
+
+$(".section4-col").mouseleave(function(){
+  $("#col3-1b").removeClass("col-1")
+  $("#col3-2b").removeClass("col-1")
+  $("#col3-3b").removeClass("col-1")
+
+  $("#col3-1b").removeClass("col-5")
+  $("#col3-2b").removeClass("col-5")
+  $("#col3-3b").removeClass("col-5")
+
+  $("#col3-1b").addClass("col-3")
+  $("#col3-2b").addClass("col-3")
+  $("#col3-3b").addClass("col-3")
+})
